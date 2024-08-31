@@ -1,0 +1,24 @@
+.nav {
+    background-color: yellow;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.menu1 {
+    background-color: blue;
+}
+.menu2 {
+    background-color: green;
+}
+.menu3 {
+    background-color: grey;
+}
+#content1 {
+    margin-top: 20px;
+}
